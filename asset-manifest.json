@@ -1,13 +1,28 @@
 {
   "files": {
-    "main.css": "/sharonstone/static/css/main.80673292.css",
-    "main.js": "/sharonstone/static/js/main.400c4167.js",
+    "main.css": "/sharonstone/static/css/main.6e8719ca.css",
+    "main.js": "/sharonstone/static/js/main.56b2c09b.js",
+    "static/media/basikinstinkt.jpg": "/sharonstone/static/media/basikinstinkt.f26bd35c8393ac421ed4.jpg",
+    "static/media/theend.jpg": "/sharonstone/static/media/theend.324ad48a00467d0f92f0.jpg",
+    "static/media/poster.jpg": "/sharonstone/static/media/poster.7049986265b7e8ca0ed0.jpg",
+    "static/media/rememberall.jpg": "/sharonstone/static/media/rememberall.e35d5be7c17a9916d8f4.jpg",
+    "static/media/advetisement.jpg": "/sharonstone/static/media/advetisement.7f8eeffed3ae71ec580f.jpg",
+    "static/media/finishtwo.jpg": "/sharonstone/static/media/finishtwo.39aba959765dd58cd3a4.jpg",
+    "static/media/prettywomantwo.jpg": "/sharonstone/static/media/prettywomantwo.e0b8b21e59facfd44cff.jpg",
+    "static/media/basar.jpg": "/sharonstone/static/media/basar.22ae7ae8f3a39cfc93c9.jpg",
+    "static/media/start.jpg": "/sharonstone/static/media/start.bd8150e2d262d14b95cc.jpg",
+    "static/media/sharon.jpg": "/sharonstone/static/media/sharon.f6c83779d810ff444bde.jpg",
+    "static/media/words.jpg": "/sharonstone/static/media/words.b632642c61ea3261047d.jpg",
+    "static/media/advetisementtwo.jpg": "/sharonstone/static/media/advetisementtwo.29f9457aba6c1cf5aea9.jpg",
+    "static/media/beauty.jpg": "/sharonstone/static/media/beauty.ddafd80ca7c4ffba0f5b.jpg",
+    "static/media/joung.jpg": "/sharonstone/static/media/joung.085d8893bef1c5c65c89.jpg",
+    "static/media/prettywoman.jpg": "/sharonstone/static/media/prettywoman.992d8dc9102077431a60.jpg",
     "index.html": "/sharonstone/index.html",
-    "main.80673292.css.map": "/sharonstone/static/css/main.80673292.css.map",
-    "main.400c4167.js.map": "/sharonstone/static/js/main.400c4167.js.map"
+    "main.6e8719ca.css.map": "/sharonstone/static/css/main.6e8719ca.css.map",
+    "main.56b2c09b.js.map": "/sharonstone/static/js/main.56b2c09b.js.map"
   },
   "entrypoints": [
-    "static/css/main.80673292.css",
-    "static/js/main.400c4167.js"
+    "static/css/main.6e8719ca.css",
+    "static/js/main.56b2c09b.js"
   ]
 }
