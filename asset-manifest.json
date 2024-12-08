@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sharonstone/static/css/main.6e8719ca.css",
+    "main.css": "/sharonstone/static/css/main.af825282.css",
     "main.js": "/sharonstone/static/js/main.56b2c09b.js",
     "static/media/basikinstinkt.jpg": "/sharonstone/static/media/basikinstinkt.f26bd35c8393ac421ed4.jpg",
     "static/media/theend.jpg": "/sharonstone/static/media/theend.324ad48a00467d0f92f0.jpg",
@@ -18,11 +18,11 @@
     "static/media/joung.jpg": "/sharonstone/static/media/joung.085d8893bef1c5c65c89.jpg",
     "static/media/prettywoman.jpg": "/sharonstone/static/media/prettywoman.992d8dc9102077431a60.jpg",
     "index.html": "/sharonstone/index.html",
-    "main.6e8719ca.css.map": "/sharonstone/static/css/main.6e8719ca.css.map",
+    "main.af825282.css.map": "/sharonstone/static/css/main.af825282.css.map",
     "main.56b2c09b.js.map": "/sharonstone/static/js/main.56b2c09b.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e8719ca.css",
+    "static/css/main.af825282.css",
     "static/js/main.56b2c09b.js"
   ]
 }
