@@ -1,0 +1,24 @@
+.footer {
+    &__body {
+        padding: 20px;
+        background-color: rgb(24, 62, 87);
+        background-color: rgb(93, 105, 96);
+        background-color: transparent;
+    }
+    &__title {
+        text-align: center;
+        text-transform: uppercase;
+        font-size: 24px;
+        color: rgb(236, 201, 201);
+        color: yellow;
+        color: black;
+    }
+}
+
+@media (max-width: 400px) {
+    .footer {
+        &__title {
+            font-size: 18px;
+        }
+    }
+}
