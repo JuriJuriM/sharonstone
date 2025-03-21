@@ -45,10 +45,10 @@ const Second = () => {
                             </div>
                         </div>
                     </div>
-                    <div className='second__titles'>Голливудская звезда стала лицом французского бренда очков Alain Afflelou</div>
+                    <div className='second__titles'>Шерон Стоун в фильме "Основной инстинкт"</div>
                     <div className='second__from'>
                         <div className='second__video'>
-                            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/i2uMMw24mxQ?si=Q0Wxap4URsP_Fhx1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/yO-cfDnXdEs?si=TuVrnpYyjqe_tVZ7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                         </div>
                     </div>
                     <div className='second__sharon'>
